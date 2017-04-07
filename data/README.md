@@ -1,2 +1,2 @@
-# 数据
-下载地址：https://www.kaggle.com/c/quora-question-pairs/data
+# Data
+Download File：https://www.kaggle.com/c/quora-question-pairs/data
